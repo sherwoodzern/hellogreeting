@@ -4,6 +4,7 @@ pipeline {
             label "Jenkinsslave"
         }
     }
+    
     tools {
         maven 'M3'
     }
